@@ -11,3 +11,4 @@ console.log(firstName);
 console.log(firstName);
 
 let jonas_matilda = "JM";
+let function = 27;
