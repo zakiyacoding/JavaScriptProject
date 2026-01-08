@@ -64,11 +64,11 @@ console.log(lastName);
 
 // Math operators
 const now = 2037;
-const ageNaaz = now - 1991;
+const ageJonas = now - 1991;
 const ageSarah = now - 2018;
-console.log(ageNaaz, ageSarah);
+console.log(ageJonas, ageSarah);
 
-console.log(ageNaaz * 2, ageNaaz / 10, 2 ** 3);
+console.log(ageJonas * 2, ageJonas / 10, 2 ** 3);
 // 2 ** 3 means 2 to the power of 3 = 2 * 2 * 2
 
 const firstName = "Jonas";
@@ -85,4 +85,4 @@ x--;
 console.log(x);
 
 // Comparison operators
-console.log(ageNaaaz > ageSarah);
+console.log(ageJonas > ageSarah);
