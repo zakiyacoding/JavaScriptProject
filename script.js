@@ -74,6 +74,6 @@ const firstName = "Jonas";
 const lastName = "Schmedtmann";
 console.log(firstName + " " + lastName);
 
-let x = 10 + 5;
-x += 10;
+let x = 10 + 5; // 15
+x += 10; // x = x + 10 = 25
 console.log(x);
