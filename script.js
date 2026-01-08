@@ -62,6 +62,7 @@ console.log(lastName);
 
 */
 
-const ageNaaz = 2037 - 1991;
-const ageSarah = 2037 - 2018;
+const now = 2037;
+const ageNaaz = now - 1991;
+const ageSarah = now - 2018;
 console.log(ageNaaz, ageSarah);
