@@ -85,3 +85,4 @@ x--;
 console.log(x);
 
 // Comparison operators
+console.log(ageNaaaz > ageSarah);
