@@ -53,8 +53,7 @@ age = 31;
 
 const birthYear = 1991;
 // birthYear = 1990;
+// const job;
 
-const job;
-
-var job = 'programmer';
-job = 'teacher';
+var job = "programmer";
+job = "teacher";
