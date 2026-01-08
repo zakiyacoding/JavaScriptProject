@@ -62,6 +62,7 @@ console.log(lastName);
 
 */
 
+// Math operators
 const now = 2037;
 const ageNaaz = now - 1991;
 const ageSarah = now - 2018;
@@ -82,3 +83,5 @@ x++; // x = x + 1
 x--;
 x--;
 console.log(x);
+
+// Comparison operators
