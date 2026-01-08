@@ -26,7 +26,6 @@ let job2 = "teacher";
 
 console.log(myFirstJob);
 
-*/
 
 let javascriptIsFun = true;
 console.log(javascriptIsFun);
@@ -45,3 +44,9 @@ console.log(typeof year);
 
 year = 1991;
 console.log(typeof year);
+
+console.log(typeof null);
+*/
+
+let age = 30;
+age = 31;
