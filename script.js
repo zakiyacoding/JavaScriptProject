@@ -69,3 +69,7 @@ console.log(ageNaaz, ageSarah);
 
 console.log(ageNaaz * 2, ageNaaz / 10, 2 ** 3);
 // 2 ** 3 means 2 to the power of 3 = 2 * 2 * 2
+
+const firstName = "Jonas";
+const lastName = "Schmedtmann";
+console.log(firstName + lastName);
