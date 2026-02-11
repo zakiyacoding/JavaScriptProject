@@ -103,7 +103,7 @@ console.log(x, y);
 
 const averageAge = (ageJonas + ageSarah) / 2;
 console.log(ageJonas, ageSarah, averageAge);
-*/
+
 
 const firstName = "Jonas";
 const job = "teacher";
@@ -127,3 +127,7 @@ console.log(
 console.log(`String
   multiple
   lines`);
+*/
+
+const age = 19;
+const isOldEnough = age >= 18;
