@@ -153,3 +153,4 @@ const massJohn = 85;
 const heightJohn = 1.76;
 
 const BMIMark = massMark / height ** 2;
+const BMIJohn = massJohn / (heightJohn * heightJohn);
