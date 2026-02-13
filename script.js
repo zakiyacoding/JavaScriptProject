@@ -149,3 +149,5 @@ console.log(century);
 
 const massMark = 95;
 const heightmark = 1.88;
+const massJohn = 85;
+const heightJohn = 1.76;
