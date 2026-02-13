@@ -127,7 +127,7 @@ console.log(
 console.log(`String
   multiple
   lines`);
-*/
+
 
 const age = 15;
 
@@ -138,10 +138,13 @@ if (age >= 18) {
   console.log(`Sarah is too young. Wait another ${yearsLeft} years :)`);
 }
 
-const birthYear = 1991;
+const birthYear = 2012;
 if (birthYear <= 2000) {
   century = 20;
 } else {
   century = 21;
 }
 console.log(century);
+*/
+
+const massMark = 95;
