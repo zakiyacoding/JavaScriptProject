@@ -156,4 +156,5 @@ const BMIMark = massMark / height ** 2;
 const BMIJohn = massJohn / (heightJohn * heightJohn);
 const markHigherMBI = BMIMark > BMIJohn;
 
-console.log(BMIMark, BMIJohn, markHigherMBI);
+if (BMIMark > BMIJohn) {
+}
