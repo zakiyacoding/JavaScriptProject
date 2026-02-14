@@ -154,7 +154,6 @@ const heightJohn = 1.76;
 
 const BMIMark = massMark / height ** 2;
 const BMIJohn = massJohn / (heightJohn * heightJohn);
-const markHigherMBI = BMIMark > BMIJohn;
 
 if (BMIMark > BMIJohn) {
 }
